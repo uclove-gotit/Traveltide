@@ -9,4 +9,9 @@
 6. [Outcome](#outcome)
 7. [Key Findings And Visual Analysis](#key_findings_and_visual_analysis)
 8. 
-9. 
+
+# Project Objectives
+
+TravelTide aimed to segment its customer base to support a new personalized rewards program. This initiative helps to deliver tailored incentives based on traveler behavior, enhance customer satisfaction, and drive revenue through increased engagement.
+
+# 
