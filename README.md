@@ -14,4 +14,8 @@
 
 TravelTide aimed to segment its customer base to support a new personalized rewards program. This initiative helps to deliver tailored incentives based on traveler behavior, enhance customer satisfaction, and drive revenue through increased engagement.
 
-# 
+# **Data Source**
+
+The segmentation and analysis are based on user sessions, travel history, demographics, and booking patterns from 2023.
+
+
