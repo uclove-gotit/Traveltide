@@ -24,4 +24,9 @@ The segmentation and analysis are based on user sessions, travel history, demogr
 
 https://public.tableau.com/views/Traveltideproject_17452475307370/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+# Video Presentaion
+
+<div style="position: relative; padding-bottom: 56.60377358490566%; height: 0;"><iframe src="https://www.loom.com/embed/85f20e6fcc6f4e8eb16c299be71b7e7a?sid=2e6284ac-7bb9-4a19-93da-48561634e0e4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
