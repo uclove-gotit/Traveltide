@@ -18,6 +18,47 @@ TravelTide aimed to segment its customer base to support a new personalized rewa
 
 The segmentation and analysis are based on user sessions, travel history, demographics, and booking patterns from 2023.
 
+# The segmentation process involved analyzing user sessions, booking behaviors, and demographic data from the year 2023. Key steps included:
+
+# Data Filtering: Selected users with more than seven sessions post-January 4, 2023, to focus on active customers.​
+Session Analysis: Examined session durations, page clicks, and booking activities to understand user engagement.​
+Trip Evaluation: Assessed trip details, including cancellations, to identify valid travel experiences.​
+Behavioral Metrics: Calculated metrics such as the number of trips, flights booked, hotel spending, and average distance traveled.​
+Demographic Profiling: Incorporated user demographics like age, gender, marital status, and presence of children.​
+
+# Segmentation Output:
+Six distinct customer segments were identified:
+Family Travellers
+Young Adult Frequent Travellers
+Dreamers
+Senior Travellers
+Business Travellers
+Young Frequent Travellers
+Each group received a uniquely tailored perk to align with their preferences, such as family suite discounts, fast-track security, or WiFi perks.
+
+# Outcome:
+The segmentation revealed clear behavioral and value differences among customer groups. Family and young adult frequent travellers lead in user volume and engagement. Business travellers, while fewer in number, show high revenue contribution per user.
+
+# Key Findings and Visual Analysis 
+1. Segment Distribution 
+Top 3 Segments by User Count: 
+● Family Travellers: 1,958 users 
+● Young Adult Frequent Travellers: 1,875 users 
+● Dreamers: 1,602 users 
+Least Represented Segments: 
+● Business Travellers: 155 
+● Young Frequent Travellers: 111 
+These figures suggest a heavy user concentration in leisure-oriented profiles, indicating that TravelTide appeals more to personal and family travel over business travel. 
+
+2. Gender Breakdown by Segment 
+● Family Travellers and Young Adult Frequent Travellers are predominantly female. ● Dreamers are split between both genders, but still skew female. 
+● Business Travellers and Young Frequent Travellers are more likely to be male. 
+This demographic insight is vital for customizing marketing tone, content, and channels. 
+3. Hotel Revenue by Segment
+● Young Adult Frequent Travellers generate the highest total hotel revenue (≈ $4M), followed by Family Travellers. 
+● Business Travellers have the highest revenue per user (≈ $3K), despite low user count. 
+● Dreamers, while numerous, show low hotel spend, indicating minimal engagement beyond browsing or research. 
+
 # Dashbaord
 
 <img width="1192" alt="Screenshot 2025-05-12 at 23 44 44" src="https://github.com/user-attachments/assets/05abf1d3-295e-43d4-9e50-4cafb3c606f4" />
